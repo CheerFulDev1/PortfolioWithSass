@@ -30,6 +30,10 @@
   font-weight: 700;
 }
 
+.home__icons {
+  padding-top: 20px;
+}
+
 .menu-btn {
   position: absolute;
   z-index: 1;
